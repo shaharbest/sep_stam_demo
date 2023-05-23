@@ -1,0 +1,21 @@
+{
+  "name": "sep_stam_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaharbest/sep_stam_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaharbest/sep_stam_demo/issues"
+  },
+  "homepage": "https://github.com/shaharbest/sep_stam_demo#readme"
+}
